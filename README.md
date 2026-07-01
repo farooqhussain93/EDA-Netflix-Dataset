@@ -1,18 +1,24 @@
 # Exploratory Data Analysis (EDA) on Netflix Dataset
 
+## Dataset
+
+Netflix dataset containing title-level information such as content type, title, director, cast, country, date added, release year, rating, duration, genre category and description.
+
 ## Project Overview
 
 This project performs an exploratory data analysis (EDA) on the Netflix dataset to uncover insights about the platform’s global content library — including content type distribution, top producing countries, genres, ratings, and release trends over time.
 The analysis aims to understand Netflix’s content strategy, audience focus and international presence.
 
-## Tools & Libraries
+## Tech Stack
 
 - Python
-- Pandas – data cleaning & manipulation
-- Matplotlib & Seaborn – data visualization
-- Jupyter Notebook – analysis & presentation
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-## Final Summary of Insights
+## Summary of Insights
 
 ### Content Type Distribution:
 - Netflix has significantly more Movies than TV Shows.
@@ -40,3 +46,7 @@ The analysis aims to understand Netflix’s content strategy, audience focus and
 - The U.S. dominates in Comedy, Drama and Documentaries.
 - India shows strong representation in Romantic and Family-oriented films.
 - Japan leads in Anime genres.
+
+## License
+
+This project is licensed under the MIT License.
