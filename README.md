@@ -6,7 +6,7 @@ Netflix dataset containing title-level information such as content type, title, 
 
 ## Project Overview
 
-This project performs an exploratory data analysis (EDA) on the Netflix dataset to uncover insights about the platform’s global content library — including content type distribution, top producing countries, genres, ratings, and release trends over time.
+This project performs an exploratory data analysis (EDA) on the Netflix dataset to uncover insights about the platform’s global content library - including content type distribution, top producing countries, genres, ratings, and release trends over time.
 The analysis aims to understand Netflix’s content strategy, audience focus and international presence.
 
 ## Tech Stack
